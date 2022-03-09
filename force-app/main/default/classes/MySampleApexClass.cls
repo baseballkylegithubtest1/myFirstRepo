@@ -10,4 +10,6 @@ public class MySampleApexClass {       //Class definition and body
    }
 
    //NEW thing
+
+   //adding a new feature
 }
